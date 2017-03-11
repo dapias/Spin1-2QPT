@@ -6,8 +6,6 @@ export basis, h_ising, h_xxz, parity_eigenvalues, xrotation_eigenvalues, average
 
 function basis(L::Int64, upspins = div(L,2))
     downspins = L - upspins
-    #dim = factorial(L)/(factorial(upspins)*factorial(downspins))
-    
     arrayup = ones(Int64, upspins)
     arraydown = zeros(Int64, downspins)
     
