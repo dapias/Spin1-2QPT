@@ -1,6 +1,6 @@
 # Spin1-2QPT
 
-Code in Julia-Language provided to solve the six first exercises (concerning to Quantum Phase transitions for a spin 1/2 chain -XXZ model-) of the Lecture notes *Introduction to the computational analysis of static properties and dynamics of one-dimensional spin-1/2 systems* written by Professor **Lea Santos** that you may download from [here](https://www.yu.edu/faculty-bios/santos/computer-codes).
+Code written in julia language provided to solve the six first exercises (concerning to Quantum Phase transitions for a spin 1/2 chain -XXZ model-) of the Lecture notes *Introduction to the computational analysis of static properties and dynamics of one-dimensional spin-1/2 systems* written by Professor **Lea Santos** that you may download from [here](https://www.yu.edu/faculty-bios/santos/computer-codes).
 
 
 To interact with the code clone this repository by executing on a terminal
